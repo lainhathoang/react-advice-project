@@ -1,2 +1,2 @@
 # [ReactJS] Advice Project
-# Author: Hoang Lai (lainhathoang)
+### Author: Hoang Lai (lainhathoang)
